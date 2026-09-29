@@ -1,0 +1,2 @@
+- [ ] format json/curl
+- [ ] forgive noice - timestamp, id, etc
